@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Camilo Vargas 👋</h1>
+<h1 align="center">Hi, i'm Camilo Vargas 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Data+Science+Student;Machine+Learning+Enthusiast;Predictive+Analytics;Geospatial+Data+Science;Turning+Data+Into+Insights" />
