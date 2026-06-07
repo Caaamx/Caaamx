@@ -8,13 +8,14 @@
   🎓 Data Science Student <br>
   💼 Open to Data Science, Analytics and Machine Learning Internship Opportunities
 </p>
+
 ---
 
 ## 🚀 About Me
 
-I'm a Data Science student passionate about building analytical solutions that transform raw data into actionable insights.
+I'm a Data Science student passionate about developing end-to-end analytical solutions that transform raw data into actionable insights.
 
-My interests include:
+My main areas of interest include:
 
 * Machine Learning & Predictive Modeling
 * Data Engineering
@@ -23,7 +24,7 @@ My interests include:
 * Explainable AI
 * Business Intelligence
 
-I enjoy working across the full data lifecycle, from data acquisition and preprocessing to modeling, visualization and communication of results.
+I enjoy working across the full data lifecycle, from data acquisition and preprocessing to modeling, visualization, and communication of results.
 
 ---
 
@@ -41,6 +42,7 @@ I enjoy working across the full data lifecycle, from data acquisition and prepro
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
 ### Visualization & Deployment
 
@@ -52,22 +54,12 @@ I enjoy working across the full data lifecycle, from data acquisition and prepro
 
 ---
 
-## 🏆 Highlights
-
-🏅 Finalist — Data Challenge Pro 2025
-
-🥇 Orgullo Caribe Scholarship Recipient
-
-🎤 STEM Research Presenter
-
----
-
 ## 🎯 Current Focus
 
 * Building production-ready Data Science projects
 * Advanced Machine Learning
-* MLOps Fundamentals
 * Geospatial Analytics
+* MLOps Fundamentals
 * Data Visualization & Storytelling
 
 ---
@@ -76,17 +68,26 @@ I enjoy working across the full data lifecycle, from data acquisition and prepro
 ## 🌎 Languages
 
 * 🇨🇴 Spanish (Native)
-* 🇺🇸 English (B2)
+* 🇺🇸 English (B2 – ITEP Certified)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Camilo_Vargas-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/camilo-vargas-1a6a61242)
+<p align="center">
 
+<a href="https://www.linkedin.com/in/camilo-vargas-1a6a61242">
+  <img src="https://img.shields.io/badge/LinkedIn-Camilo_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-camilovargas2511@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:camilovargas2511@gmail.com)
+<a href="mailto:camilovargas2511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-camilovargas2511%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-> “Transforming data into insights that drive better decisions.”
+<p align="center">
+  <i>"Transforming data into insights that drive better decisions."</i>
+</p>
