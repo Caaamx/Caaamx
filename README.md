@@ -67,7 +67,7 @@ I enjoy working across the full data lifecycle, from data acquisition and prepro
 ## 🌎 Languages
 
 * 🇨🇴 Spanish (Native)
-* 🇺🇸 English (B2 – ITEP Certified)
+* 🇺🇸 English (B2)
 
 ---
 
