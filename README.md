@@ -19,9 +19,8 @@ My main areas of interest include:
 
 * Machine Learning & Predictive Modeling
 * Data Engineering
-* Geospatial Analytics
+* Data Analytics
 * Time Series Forecasting
-* Explainable AI
 * Business Intelligence
 
 I enjoy working across the full data lifecycle, from data acquisition and preprocessing to modeling, visualization, and communication of results.
@@ -42,7 +41,6 @@ I enjoy working across the full data lifecycle, from data acquisition and prepro
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
 ### Visualization & Deployment
 
