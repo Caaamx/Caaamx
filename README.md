@@ -20,6 +20,7 @@ My main areas of interest include:
 * Machine Learning & Predictive Modeling
 * Data Engineering
 * Data Analytics
+* Geospatial Analytics
 * Time Series Forecasting
 * Business Intelligence
 
