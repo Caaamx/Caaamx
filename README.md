@@ -6,7 +6,7 @@
 
 <p align="center">
   🎓 Data Science Student <br>
-  💼 Open to Data Science, Analytics and Machine Learning Internship Opportunities
+  💼 Currently doing an internship at Promigas
 </p>
 
 ---
